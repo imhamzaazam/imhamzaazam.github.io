@@ -1,0 +1,101 @@
+
+# Site settings
+title: Hamza Azam
+description: >-
+  A computer science graduate exploring startups, fintech, technology,
+  and occasionally breaking things just to see what happens.
+lang: en-US
+direction: ltr
+timezone: Asia/Karachi
+image: assets/img/ogp.png
+repo: https://github.com/piharpi/jekyll-klise
+mode: dark
+
+# Profile settings
+author:
+  name: "<strong>Hi,</strong> I'm Hamza."
+  bio: |
+    
+
+    I'm a computer science graduate with a thing for startups, fintech, and breaking things (sometimes intentionally). <br/> <br/>
+
+    Currently building stealth startup & figuring things out along the way. <br/> <br/>
+    Always up for a good conversation, an interesting idea, or a cup of chai.
+    <a href="https://calendly.com/im-hamzaazam/new-meeting" target="_blank" rel="noopener">Chai on me ☕</a>
+  username: hamzaazam
+  github: imhamzaazam
+  twitter: hamzazam
+  email: im.hamzaazam@gmail.com
+  avatar: /assets/img/avatar.jpg
+
+# URL settings
+url: "https://imhamzaazam.github.io"
+baseurl: ""
+permalink: /:title/
+
+google_analytics:
+fb_appid:
+
+# Collection settings
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+- scope:
+      path: ""
+  values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+sass:
+  style: compressed
+
+include:
+- _redirects
+- .htaccess
+
+exclude:
+- CNAME
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- CHANGELOG.md
+- README.md
+- node_modules
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- lighthouse.png
+- klise-*.gem
+- klise.gemspec
+- package.json
+- vercel.json
+
+# Plugins
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-postfiles
