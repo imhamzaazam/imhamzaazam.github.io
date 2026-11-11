@@ -5,3 +5,13 @@ _site/
 _drafts
 klise-*.gem
 Gemfile.lock
+# Ruby dependencies
+/vendor/
+/.bundle/
+
+# Jekyll build output
+/_site/
+
+# Other generated files
+.sass-cache/
+.jekyll-cache/
