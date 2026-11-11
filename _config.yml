@@ -94,6 +94,8 @@ exclude:
 - package.json
 - vercel.json
 - .bundle
+- vendor
+
 
 
 # Plugins
