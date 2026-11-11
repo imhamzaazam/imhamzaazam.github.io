@@ -5,6 +5,7 @@ title: "Building RBAC for a Multi-Tenant SaaS: Permissions, Roles, and Scopes"
 date: 2026-11-11 06:00:00 +0500
 tags: [backend, rbac, saas, software-architecture]
 description: "How I'm approaching role-based access control for a multi-tenant freight-forwarding SaaS."
+image: /assets/img/zero-trust.png
 comments: false
 ---
 
