@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Building RBAC for a Multi-Tenant SaaS: Permissions, Roles, and Scopes"
@@ -9,7 +8,7 @@ image: /assets/img/zero-trust.png
 comments: false
 ---
 
-# Building RBAC for a Multi-Tenant SaaS: Permissions, Roles, and Scopes
+![Zero Trust](/assets/img/zero-trust.png)
 
 Authentication is usually the easy part. A user logs in, gets a token, and starts using the application.
 
