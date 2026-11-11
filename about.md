@@ -30,8 +30,11 @@ Usually swimming, travelling, exploring somewhere new, or looking for something 
 
 I'm always up for a good conversation, an interesting idea, or a cup of chai.
 
-## Contact
+## Say hello 👋
 
-- Email: [im.hamzaazam@gmail.com](mailto:im.hamzaazam@gmail.com)
-- GitHub: [github.com/imhamzaazam](https://github.com/imhamzaazam)
-- X: [@hamzazam](https://x.com/hamzazam)
+I'm always open to interesting conversations, ideas, and collaborations.
+
+- ✉️ [Email](mailto:im.hamzaazam@gmail.com)
+- 💻 [GitHub](https://github.com/imhamzaazam)
+- 𝕏 [X / Twitter](https://x.com/hamzazam)
+- 🔗 [LinkedIn](https://linkedin.com/in/hamza-azam)
