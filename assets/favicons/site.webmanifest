@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "/assets/favicons/favicon-16x16.png?v=3",
-            "sizes": "128x128",
+            "src": "/assets/favicons/icons8-fsociety-mask-50.png?v=4",
+            "sizes": "50x50",
             "type": "image/png"
         },
         {
-            "src": "/assets/favicons/favicon-32x32.png?v=3",
+            "src": "/assets/favicons/favicon-32x32.png?v=4",
             "sizes": "32x32",
             "type": "image/png"
         }
