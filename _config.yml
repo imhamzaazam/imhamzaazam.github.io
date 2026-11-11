@@ -93,7 +93,6 @@ exclude:
 - klise.gemspec
 - package.json
 - vercel.json
-- vendor
 - .bundle
 
 
