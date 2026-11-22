@@ -23,6 +23,8 @@ categories:
 comments: true
 ---
 
+![Container](/assets/img/container.png)
+
 # Introduction
 
 Building a software platform from the ground up is more than writing code. It involves making architectural decisions, designing reliable data structures, establishing development workflows, implementing security, and creating a repeatable process for testing and deployment.
