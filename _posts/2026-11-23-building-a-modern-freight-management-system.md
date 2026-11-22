@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Modern Freight Management System: From Architecture to CI/CD"
-date: 2026-11-23 10:00:00 +0500
+date: 2026-11-23 01:18:00 +0500
 description: "An engineering journey through building a modern freight management platform, covering backend architecture, development tools, database engineering, authentication, testing, Testcontainers, and CI/CD."
 
 tags:
